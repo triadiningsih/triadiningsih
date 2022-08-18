@@ -1,8 +1,7 @@
 # Halo semua!
 Perkenalkan nama saya **Tri Adi Ningsih**.
 
-Saat ini saya sedang membangun diri saya agar bisa lebih mendalami dunia pemrograman.
-
+Saat ini saya masih belajar mengenai dunia pemrograman.
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/tri-adi-ningsih) ku ya.
 
 <p align="left">
